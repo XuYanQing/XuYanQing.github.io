@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a345e88588daa2c4483fb7f421658609
+timeCreated: 1523868840
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasItem: {fileID: 1048652305274104, guid: a977fe5b13c56174da70f59824deb7d3,
+      type: 2}
+  - roundTextItem: {fileID: 1633787243108896, guid: e18ce7aad5b704b48b6585c9d68632d9,
+      type: 2}
+  - scoreTextItem: {fileID: 1466355174562060, guid: 907c76c20a9fc514c8b4675cb54664dc,
+      type: 2}
+  - TipsTextItem: {fileID: 1876932871889350, guid: 6a746815f947c544e898a7604a2daff4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
