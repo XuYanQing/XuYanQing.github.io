@@ -26,13 +26,13 @@ public class GameModel : MonoBehaviour {
 
 	}  
 
-	//发射飞镖  
+	
 	public void launchDarts() {  
 		int roundNum = scene.getRoundNum();  
 		if (!DartFactory.getInstance().isLaunching())  
 			StartCoroutine(launchDartsWithGapTime(roundNum));  
 	}  
-	//每个飞镖发射之间相差一段时间  
+	  
 	IEnumerator launchDartsWithGapTime(int roundNum) {  
 		for (int i = 0; i < roundNum; i++) {  
 			GameObject dart = DartFactory.getInstance().getDart();  
@@ -53,7 +53,6 @@ public class GameModel : MonoBehaviour {
 	}  
 
 
-	//击打飞镖  
 	public void strikeTheDart(Vector3 mousePos) {  
 		Ray ray = Camera.main.ScreenPointToRay(mousePos);  
 
