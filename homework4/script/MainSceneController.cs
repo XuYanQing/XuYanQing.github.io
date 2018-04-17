@@ -39,9 +39,7 @@ namespace PlayDarts.Com {
 			}  
 		}  
 
-		/** 
-        * 实现IUserAction接口 
-        */  
+		
 		public void launchDarts() {  
 			myGameModel.launchDarts();  
 		}  
@@ -51,9 +49,7 @@ namespace PlayDarts.Com {
 		}  
 
 
-		/** 
-        * 实现IGameStatusOp接口 
-        */  
+		 
 		public int getRoundNum() {  
 			return myGameStatus.getRoundNum();  
 		}  
