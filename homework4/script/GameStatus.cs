@@ -50,22 +50,22 @@ public class GameStatus : MonoBehaviour {
 		return score;  
 	}  
 
-	//得分，+100  
+	 
 	public void addScore() {  
 		score += 100;  
 		scoreText.GetComponent<Text>().text = "Score:  " + score + " / " + (roundNum * 100);  
 		checkScore();  
 	}  
 
-	//扣分，-100  
+	
 	public void subScore() {  
 		score = score >= 100 ? score - 100 : 0;  
 		scoreText.GetComponent<Text>().text = "Score:  " + score + " / " + (roundNum * 100);  
 	}  
 
-	//检测分数是否已满  
+	
 	void checkScore() {  
-		if (score >= roundNum * 100) {  //可以下一关  
+		if (score >= roundNum * 100) {  
 			addRoundNum();  
 			resetScore();  
 
