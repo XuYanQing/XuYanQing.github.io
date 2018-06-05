@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackPackSystem-master", "Assembly-CSharp.csproj", "{90EFA0BF-855A-EC0A-4299-CD960F479575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackPackSystem-master", "Assembly-CSharp-Editor.csproj", "{0BC65A60-47DD-E1A6-43BF-68707EB30B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EFA0BF-855A-EC0A-4299-CD960F479575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EFA0BF-855A-EC0A-4299-CD960F479575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EFA0BF-855A-EC0A-4299-CD960F479575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EFA0BF-855A-EC0A-4299-CD960F479575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC65A60-47DD-E1A6-43BF-68707EB30B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC65A60-47DD-E1A6-43BF-68707EB30B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC65A60-47DD-E1A6-43BF-68707EB30B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC65A60-47DD-E1A6-43BF-68707EB30B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
