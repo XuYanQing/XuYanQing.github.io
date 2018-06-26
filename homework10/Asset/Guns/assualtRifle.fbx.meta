@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: df6acc8a9c0ce254292750bede5181bd
+timeCreated: 1485412739
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel
+    100004: BarrelHousing
+    100006: BottomBody
+    100008: Butt
+    100010: ButtScrew
+    100012: ButtScrew.001
+    100014: ButtSholderComforter
+    100016: FrontSight
+    100018: Mag
+    100020: RailBottom
+    100022: RailLeft
+    100024: RailRight
+    100026: RailTopBack
+    100028: RailTopFront
+    100030: RearSight
+    100032: Sphere
+    100034: Sphere.001
+    100036: TopBody
+    100038: Trigger
+    100040: Cube
+    400000: //RootNode
+    400002: Barrel
+    400004: BarrelHousing
+    400006: BottomBody
+    400008: Butt
+    400010: ButtScrew
+    400012: ButtScrew.001
+    400014: ButtSholderComforter
+    400016: FrontSight
+    400018: Mag
+    400020: RailBottom
+    400022: RailLeft
+    400024: RailRight
+    400026: RailTopBack
+    400028: RailTopFront
+    400030: RearSight
+    400032: Sphere
+    400034: Sphere.001
+    400036: TopBody
+    400038: Trigger
+    400040: Cube
+    2300000: Barrel
+    2300002: BarrelHousing
+    2300004: BottomBody
+    2300006: Butt
+    2300008: ButtScrew
+    2300010: ButtScrew.001
+    2300012: ButtSholderComforter
+    2300014: FrontSight
+    2300016: Mag
+    2300018: RailBottom
+    2300020: RailLeft
+    2300022: RailRight
+    2300024: RailTopBack
+    2300026: RailTopFront
+    2300028: RearSight
+    2300030: Sphere
+    2300032: Sphere.001
+    2300034: TopBody
+    2300036: Trigger
+    2300038: Cube
+    3300000: Barrel
+    3300002: BarrelHousing
+    3300004: BottomBody
+    3300006: Butt
+    3300008: ButtScrew
+    3300010: ButtScrew.001
+    3300012: ButtSholderComforter
+    3300014: FrontSight
+    3300016: Mag
+    3300018: RailBottom
+    3300020: RailLeft
+    3300022: RailRight
+    3300024: RailTopBack
+    3300026: RailTopFront
+    3300028: RearSight
+    3300030: Sphere
+    3300032: Sphere.001
+    3300034: TopBody
+    3300036: Trigger
+    3300038: Cube
+    4300000: ButtScrew
+    4300002: Sphere
+    4300004: ButtSholderComforter
+    4300006: Butt
+    4300008: Mag
+    4300010: RearSight
+    4300012: Trigger
+    4300014: TopBody
+    4300016: Barrel
+    4300018: FrontSight
+    4300020: RailTopFront
+    4300022: BarrelHousing
+    4300024: RailBottom
+    4300026: RailLeft
+    4300028: RailRight
+    4300030: BottomBody
+    4300032: RailTopBack
+    4300034: Sphere.001
+    4300036: ButtScrew.001
+    4300038: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
