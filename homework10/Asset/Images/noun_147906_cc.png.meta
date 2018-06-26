@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: d200f90e16ba2b449a25f12ef2b8ffb2
+timeCreated: 1497847418
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: noun_147906_cc_0
+    21300002: noun_147906_cc_1
+    21300004: noun_147906_cc_2
+    21300006: noun_147906_cc_3
+    21300008: noun_147906_cc_4
+    21300010: noun_147906_cc_5
+    21300012: noun_147906_cc_6
+    21300014: noun_147906_cc_7
+    21300016: noun_147906_cc_8
+    21300018: noun_147906_cc_9
+    21300020: noun_147906_cc_10
+    21300022: noun_147906_cc_11
+    21300024: noun_147906_cc_12
+    21300026: noun_147906_cc_13
+    21300028: noun_147906_cc_14
+    21300030: noun_147906_cc_15
+    21300032: noun_147906_cc_16
+    21300034: noun_147906_cc_17
+    21300036: noun_147906_cc_18
+    21300038: noun_147906_cc_19
+    21300040: noun_147906_cc_20
+    21300042: noun_147906_cc_21
+    21300044: noun_147906_cc_22
+    21300046: noun_147906_cc_23
+    21300048: noun_147906_cc_24
+    21300050: noun_147906_cc_25
+    21300052: noun_147906_cc_26
+    21300054: noun_147906_cc_27
+    21300056: noun_147906_cc_28
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 38, y: 103, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noun_147906_cc_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103
+        width: 588
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 296.5}
+        - {x: -294, y: 296.5}
+        - {x: -294, y: -270.5}
+        - {x: -49, y: -296.5}
+        - {x: 186, y: -296.5}
+        - {x: 294, y: -168.5}
+        - {x: 294, y: 28.5}
+        - {x: 99, y: 273.5}
+      - - {x: 18, y: -48.5}
+        - {x: 9, y: -45.5}
+        - {x: -8, y: -30.5}
+        - {x: 14, y: 7.5}
+        - {x: 3, y: -39.5}
+        - {x: 12, y: -45.5}
+        - {x: 36, y: -47.5}
+        - {x: 47, y: -44.5}
+        - {x: 81, y: -76.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -1}
+        - {x: 1.5, y: -3}
+        - {x: -3.5, y: -1}
+        - {x: 8.5, y: -1}
+        - {x: 8.5, y: 10}
+        - {x: -2.5, y: 10}
+        - {x: -8.5, y: 7}
+        - {x: -8.5, y: -8}
+        - {x: -6.5, y: -10}
+        - {x: 8.5, y: -10}
+        - {x: 8.5, y: -2}
+        - {x: 7.5, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -6.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 17.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8.5}
+        - {x: -4, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: 4, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 5.5, y: -6.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 5.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 8.5}
+        - {x: -4.5, y: 6.5}
+        - {x: -6.5, y: 4.5}
+        - {x: -6.5, y: -8.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 8.5}
+      - - {x: -0.5, y: -2.5}
+        - {x: -0.5, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 8.5}
+        - {x: -6.5, y: -8.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 3.5, y: 8.5}
+      - - {x: 0.5, y: -1.5}
+        - {x: -0.5, y: -1.5}
+        - {x: -0.5, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -7, y: -9}
+        - {x: 3, y: -9}
+        - {x: 5, y: -5}
+        - {x: 7, y: 0}
+        - {x: 7, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -1.5}
+        - {x: -3, y: 0.5}
+        - {x: 8, y: 0.5}
+        - {x: 8, y: 8.5}
+        - {x: -6, y: 8.5}
+        - {x: -8, y: 6.5}
+        - {x: -8, y: -7.5}
+        - {x: -7, y: -8.5}
+        - {x: 7, y: -8.5}
+        - {x: 8, y: -7.5}
+        - {x: 8, y: 0.5}
+        - {x: 4, y: 0.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -6.5}
+        - {x: 17.5, y: -6.5}
+        - {x: 17.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 68
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8.5}
+        - {x: -4, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: 4, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 68
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 8.5}
+        - {x: -8.5, y: -8.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 8.5, y: -3.5}
+        - {x: 8.5, y: 6.5}
+        - {x: -0.5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 6.5}
+        - {x: -8, y: -6.5}
+        - {x: 5, y: -6.5}
+        - {x: 8, y: -4.5}
+        - {x: 8, y: 3.5}
+        - {x: 5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 68
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 10}
+        - {x: -7.5, y: -10}
+        - {x: 6.5, y: -10}
+        - {x: 7.5, y: -9}
+        - {x: 7.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 68
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 8.5}
+        - {x: -4.5, y: 6.5}
+        - {x: -4.5, y: -8.5}
+        - {x: 4.5, y: -8.5}
+        - {x: 4.5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 68
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 8.5}
+        - {x: -10.5, y: 6.5}
+        - {x: -12.5, y: 4.5}
+        - {x: -12.5, y: -8.5}
+        - {x: 12.5, y: -8.5}
+        - {x: 12.5, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8.5}
+        - {x: -4, y: -8.5}
+        - {x: 3, y: -8.5}
+        - {x: 4, y: -3.5}
+        - {x: 4, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 42
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 6.5}
+        - {x: -10.5, y: -6.5}
+        - {x: 10.5, y: -6.5}
+        - {x: 10.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 42
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 6.5}
+        - {x: -9.5, y: -6.5}
+        - {x: 9.5, y: -6.5}
+        - {x: 9.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 42
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 8.5}
+        - {x: 2, y: 8.5}
+        - {x: 2, y: 3.5}
+        - {x: -1, y: 8.5}
+        - {x: -7, y: 8.5}
+        - {x: -7, y: -8.5}
+        - {x: 7, y: -8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 6.5}
+        - {x: -6.5, y: -6.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 6.5}
+      - - {x: 0.5, y: 0.5}
+        - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+        - {x: -0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 7.5}
+        - {x: -5.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 5.5, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 42
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 6.5}
+        - {x: -5.5, y: -6.5}
+        - {x: 5.5, y: -6.5}
+        - {x: 5.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: 2, y: -9}
+        - {x: 8, y: -2}
+        - {x: 8, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 42
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 6.5}
+        - {x: -10.5, y: -6.5}
+        - {x: 10.5, y: -6.5}
+        - {x: 10.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 37
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 11}
+        - {x: -2.5, y: -11}
+        - {x: 2.5, y: -11}
+        - {x: 2.5, y: 11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7.5}
+        - {x: -7, y: -7.5}
+        - {x: 4, y: -7.5}
+        - {x: 7, y: -4.5}
+        - {x: 7, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 40
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 6.5, y: -5.5}
+        - {x: 6.5, y: 7.5}
+      - - {x: 0.5, y: 1.5}
+        - {x: -0.5, y: 1.5}
+        - {x: 0.5, y: 0.5}
+        - {x: -0.5, y: 0.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: noun_147906_cc_28
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 42
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8.5}
+        - {x: -4, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: 4, y: 8.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
